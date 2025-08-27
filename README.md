@@ -2,12 +2,11 @@
 # Brayan prg
 
 
-# Project Title
+
+# pikachu
 
 A brief description of what this project does and who it's for
-
-xx
-z## Color Reference
+hellow## Color Reference
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
@@ -23,7 +22,4 @@ z## Color Reference
 
 holaa
 ![Logo](https://www.bing.com/images/search?q=imagenes+random&id=F60353587EFB226AAED942A23F28096CBC9A3C59&FORM=IACFIR)
-
-
-
 
